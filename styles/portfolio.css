@@ -177,7 +177,6 @@ footer {
   padding: 130px 230px;
   display: flex;
   gap: 100px;
-  align-items: center;
 }
 .footer-column {
   width: 50%;
